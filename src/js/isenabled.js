@@ -8,37 +8,17 @@ var IsEnabled = {
     addToHomeScreen: false,
     shareAd: false,
 
-    newsPage: true,
-
-    chatsPage: false,
-    chatPage: false,
-
-    scanPage: true,
-
     envPage: true,
-
-    auraPage: true,
-
-    profilePage: false,
-    scores: false,
-    achievements: false,
 
     servicesPage: true,
 
     rightPanel: true,
 
-    ideasPage: false,
-
-    coinPage: false,
-
-    notificationsPage: false,
+    notificationsPage: true,
 
     settingsPage: true,
 
-    taskCompletedPage: false,
-
     aboutPage: true,
-    recordAudioPage: true,
 }
 
 export default IsEnabled;
